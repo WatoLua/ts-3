@@ -8,4 +8,4 @@ if (-not(Test-path "mods/better-end-4.0.11.jar" -PathType leaf)) {
 
 echo "Mods has been downloaded successfully"
 timeout 5
-del getMods.ps1
+rem del getMods.ps1
