@@ -15,4 +15,4 @@ if (-not(Test-path "mods/physics-mod-pro-v170d-fabric-1.20.1.jar" -PathType leaf
 
 echo "Mods has been downloaded successfully"
 timeout 5
-del getMods.ps1
+rem del getMods.ps1
